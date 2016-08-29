@@ -9,4 +9,5 @@ Mac
 * 開啟終端機, run: diskutil list
 * 啟動磁碟工具卸足剛才插入的SD卡
 * sudo dd if=2015-01-31-raspbian.img of=/dev/disk1
+(等很久80分)
 
